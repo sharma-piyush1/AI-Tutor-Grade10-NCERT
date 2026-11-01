@@ -1,8 +1,10 @@
 # 🎓 AI Tutor - Grade 10 NCERT
 
+> **Streamlit demo:** [AI Tutor · Grade 10 NCERT](https://ai-tutor-grade10-ncert-play.streamlit.app/)
+
 An intelligent AI-powered tutoring system for Grade 10 students, covering **Mathematics, Physics, and Chemistry** based on NCERT curriculum.
 
-**Demo** [Streamlit Web App](https://ai-tutor-grade10-ncert-play.streamlit.app/) 
+
 **Created by:** Piyush Sharma 
 
 ---
